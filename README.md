@@ -1,4 +1,4 @@
-# “FauxNews”: Detecting Fake News 
+# “FauxNews”: Unmasking Fake News with Machine Learning" 
 
 *By Anu Tsogtbaatar and Ghalyah Al Hendi*
 
